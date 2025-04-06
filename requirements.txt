@@ -1,0 +1,4 @@
+torch
+flappy-bird-gymnasium
+torchvision
+pyyaml
